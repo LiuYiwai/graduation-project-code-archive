@@ -1,0 +1,16 @@
+joblib
+fire
+numpy
+scipy
+pandas
+matplotlib
+
+albumentations
+scikit-image
+opencv-python
+Pillow
+
+torch
+torchvision
+
+tqdm
